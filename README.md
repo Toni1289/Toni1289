@@ -8,11 +8,11 @@
  
 ##
 <a href="https://github.com/Toni1289">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Toni1289&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Toni1289&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true"/>
 </a>
 
 <a href="https://github.com/Toni1289">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni1289&theme=tokyonight&count_private=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni1289&theme=tokyonight&include_all_commits=true&count_private=false" />
 </a>
 
 <a href="https://github.com/Toni1289/Bladderlife">
