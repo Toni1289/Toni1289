@@ -1,12 +1,11 @@
-## Wellcome!!!  I'm Otoniel Ferreira.   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif  width="50">
+## Wellcome!!!  I'm Otoniel Ferreira.   <img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/PC.gif"  width="50">
  
-<!--<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />-->
+<!--<img align="right" alt="PC GIF" src="https://github.com/Toni1289/Toni1289/blob/main/Assets/PC.gif" width="190" />-->
  
 <p>
  </i></h4> <b>I'm a </b><i> 💻Technology / 🎮Games</i> <b>lover</b>
 </p>
  
-##
 <a href="https://github.com/Toni1289">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Toni1289&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true"/>
 </a>
@@ -43,15 +42,18 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="storm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- 
- 
- 
- 
- 
- 
+
 </div>
 
 ##
+
+<br>
+
+<img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" height="350">
+
+<br>
+
+## Contact
 
 <div>  
   <a href = "mailto:toni.mmn12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
