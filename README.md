@@ -49,7 +49,7 @@
 
 <br>
 
-<img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" height="350">
+<img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/zelddances.gif" alt="Zelda Game" width="980" height="350">
 
 <br>
 
