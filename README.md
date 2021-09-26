@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hello!!, I'm Otoniel!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+ 
+… Fullstack Developer  = = = = = = = ![PHP](https://img.shields.io/badge/PHP-blueviolet)
 
+ 
+<h4>Lover of Technology!!!</h3> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="100">
+ 
 <!--
 **Toni1289/Toni1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
