@@ -49,7 +49,7 @@
 
 <br>
 
-<img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/streetfighter2.gif" alt="Zelda Game" width="980" height="350">
+<img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/streetfighter23.gif" alt="Zelda Game" width="980" height="350">
 
 <br>
 
