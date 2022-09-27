@@ -44,20 +44,12 @@
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 </div>
-
-##
-
 <br>
-
-<img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/streetfighter23.gif" alt="Zelda Game" width="980" height="350">
-
-<br>
+  <img src="https://github.com/Toni1289/Toni1289/blob/main/Assets/streetfighter23.gif" alt="Zelda Game" width="980" height="350">
 
 ## Contact
-
 <div>  
   <a href = "mailto:toni.mmn12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/otonielleafy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/bhzkyQrW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
 </div>
