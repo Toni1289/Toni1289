@@ -34,7 +34,9 @@ Tenho vivência prática com um amplo leque de tecnologias, sempre focado em con
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Laravel Horizon](https://img.shields.io/badge/Laravel_Horizon-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### ⚙️ DevOps, Infraestrutura & Arquitetura
+#### ☁️ Cloud, DevOps & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Supervisor](https://img.shields.io/badge/Supervisor-000000?style=for-the-badge)
@@ -47,46 +49,18 @@ Tenho vivência prática com um amplo leque de tecnologias, sempre focado em con
 ![MCPs para IA](https://img.shields.io/badge/MCPs_para_IA-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+#### 📊 BI & Ferramentas Corporativas 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-%230078D4.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-888888?style=for-the-badge&logo=visualbasic&logoColor=white)
+
 #### 📦 Ecossistema & Auxiliares
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![mkDocs](https://img.shields.io/badge/mkDocs-%23333333.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 📊 Estatísticas e Projetos
-
-<div align="center">
-  <table align="center" style="border: none; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td align="center" valign="top" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Toni1289&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true" />
-      </td>
-      <td align="center" valign="top" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toni1289&theme=tokyonight&include_all_commits=true&count_private=false&layout=compact" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-<div align="center">
-  <table align="center" style="border: none; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td align="center" valign="top" style="border: none; background-color: transparent;">
-        <a href="https://github.com/Toni1289/Bladderlife">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toni1289&repo=varanida-extension&theme=tokyonight" />
-        </a>
-      </td>
-      <td align="center" valign="top" style="border: none; background-color: transparent;">
-        <a href="https://github.com/Toni1289/conect-PDO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toni1289&repo=conect-PDO&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+![Git & GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
